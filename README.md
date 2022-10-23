@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+![Header](./github-header-image.png)
 
 - 👋 Hi, I’m @hanzo-alpha
 - 👀 I’m interested in software developer
