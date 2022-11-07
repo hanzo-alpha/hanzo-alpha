@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-PHP              17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-Vue.js           15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Bash             14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
-.env file        13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-JSON             9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Markdown         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+PHP              1 hr 25 mins    █████████░░░░░░░░░░░░░░░░   35.60 %
+Blade Template   1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+JSON             37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Vue.js           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Markdown         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+JavaScript       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
