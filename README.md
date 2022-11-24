@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-PHP              14 hrs 1 min    ██████████████████████░░░   88.18 %
-JSON             44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-JavaScript       37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Bash             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-NEON             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Blade Template   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+PHP              16 hrs 40 mins  ██████████████████████▓░░   90.88 %
+JSON             37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+JavaScript       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Bash             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+NEON             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Blade Template   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
