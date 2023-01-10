@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 mins          ███████████████████████░░   91.84 %
-JSON         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
