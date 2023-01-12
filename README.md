@@ -15,7 +15,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Blade Template   14 mins         ██████████████████░░░░░░░   72.25 %
+PHP              4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+Bash             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
