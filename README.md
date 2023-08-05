@@ -15,7 +15,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 min           █████████████████████████   100.00 %
+PHP              3 hrs 34 mins   ███████████████████████░░   91.48 %
+Markdown         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Bash             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
