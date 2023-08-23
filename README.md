@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                   2 hrs 33 mins   ████████████▒░░░░░░░░░░░░   49.12 %
-JSON                  51 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-Blade Template        40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Bash                  25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-.env file             18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+PHP                   2 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.49 %
+JSON                  1 hr 1 min      ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+Blade Template        55 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Bash                  25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+.env file             18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 ```
 
 <!--END_SECTION:waka-->
