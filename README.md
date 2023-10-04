@@ -1,4 +1,4 @@
-![Header](https://github.com/hanzo-alpha/hanzo-alpha/assets/111342797/b7aba339-24e2-4a94-93a8-678d40f55d72)
+![Header](./github-header-image(1).png)
 
 - 👋 Hi, I’m @hanzo-alpha
 - 👀 I’m interested in software developer
