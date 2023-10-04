@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://github.com/hanzo-alpha/hanzo-alpha/assets/111342797/b7aba339-24e2-4a94-93a8-678d40f55d72)
 
 ![Profile views](https://gpvc.arturio.dev/hanzo-alpha)
 
