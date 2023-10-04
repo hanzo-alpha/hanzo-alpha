@@ -23,3 +23,6 @@ Markdown         29 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![image](https://github.com/hanzo-alpha/hanzo-alpha/assets/111342797/c4bd2977-6123-4017-8652-6e166259b484)
+
