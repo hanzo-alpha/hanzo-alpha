@@ -1,7 +1,5 @@
 ![Header](https://github.com/hanzo-alpha/hanzo-alpha/assets/111342797/b7aba339-24e2-4a94-93a8-678d40f55d72)
 
-![Profile views](https://gpvc.arturio.dev/hanzo-alpha)
-
 - 👋 Hi, I’m @hanzo-alpha
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning laravel, vue, react, vite, tailwind
