@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   3 mins          ████████████████████████░   96.02 %
+textmate     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
