@@ -13,11 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             6 mins          ████████░░░░░░░░░░░░░░░░░   32.58 %
-PHP              6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.76 %
-Markdown         4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-JSON             1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Other            1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
