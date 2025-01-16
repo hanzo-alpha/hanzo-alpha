@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON   10 mins         █████████████▓░░░░░░░░░░░   55.29 %
+PHP    8 mins          ███████████▒░░░░░░░░░░░░░   44.71 %
 ```
 
 <!--END_SECTION:waka-->
