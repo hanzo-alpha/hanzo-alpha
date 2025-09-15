@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 mins          ████████████████████▒░░░░   80.98 %
-Bash         0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-PHP          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   2 mins          ████████████████████████░   96.21 %
+PHP          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
