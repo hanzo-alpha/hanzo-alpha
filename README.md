@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ```txt
 PHP              4 hrs 36 mins   ███████████████▓░░░░░░░░░   62.00 %
-Blade Template   1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+Blade Template   1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
 YAML             43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
 JSON             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 .env file        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
