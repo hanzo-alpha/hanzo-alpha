@@ -13,10 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP        31 mins         █████████████▒░░░░░░░░░░░   53.57 %
-Markdown   19 mins         ████████▓░░░░░░░░░░░░░░░░   34.10 %
-Bash       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+PHP   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
