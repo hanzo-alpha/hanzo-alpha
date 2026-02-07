@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              4 hrs 25 mins   ███████████████████████▒░   93.65 %
-Blade Template   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-JSON             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
